@@ -43,7 +43,7 @@ sendall = 0
 
 # TODO 
 # replace the 0 with the pins channel ID for your sever
-pins_channel = 1004429408062414878
+pins_channel = 821921939827982388
 
 # TODO
 # add any black listed channel IDs as a list separated by a comma (,)
